@@ -1,0 +1,2 @@
+/Users/adarshbhatt/Downloads/IntegratingFacebookTutorial-master/AndroidSurfaceviewExample/app/build/intermediates/classes/debug
+/Users/adarshbhatt/Downloads/IntegratingFacebookTutorial-master/AndroidSurfaceviewExample/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-ec64f0237b75f7b6c0f26073b43dec8850d3312d.jar
